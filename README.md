@@ -1,19 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ryuzaki! 👋
 
-<!--
-**LRyuzaki001/LRyuzaki001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity, Networking, and Backend Development Student. Currently focused on mastering the fundamentals of computer networks, traffic analysis, digital forensics, and building command-line security tools using Python.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+* **Languages:** Python, Shell Script / Bash
+* **Networking & Security:** TCP/IP Sockets, Wireshark, Banner Grabbing/Header Analysis, Linux (CLI), Git
+* **Concepts:** Computer Forensics, OSI Model, Network Architecture & Hardware
+
+---
+
+### 🚀 Featured Projects
+
+* 🔍 **[banner-hunt](https://github.com/LRyuzaki001/banner-hunt):** A lightweight Python CLI tool for network banner grabbing and service identification via TCP sockets.
+
+---
+
+### 🎓 Learning Paths & Certifications
+
+* **Computer Forensics** — Universidade Cruzeiro do Sul
+* **TCP/IP Networks & Wireshark** — Gabriel Torres / Guilherme Rodrigues (Udemy)
+* **Network Architecture & Hardware** — Gabriel Torres (Udemy)
+
+---
+
+### 📫 Let's Connect!
+
+* **LinkedIn:** [Leonardo Oliveira](https://www.linkedin.com/in/leonardo-oliveira-130b312a6)
+* **GitHub:** [LRyuzaki001](https://github.com/LRyuzaki001)
+
+* PT-BR
 
 # Olá, sou o Ryuzaki! 👋
 
