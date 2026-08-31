@@ -31,7 +31,7 @@ Cybersecurity, Networking, and Backend Development Student. Currently focused on
 * **LinkedIn:** [Leonardo Oliveira](https://www.linkedin.com/in/leonardo-oliveira-130b312a6)
 * **GitHub:** [LRyuzaki001](https://github.com/LRyuzaki001)
 
-* PT-BR
+# **PT-BR**
 
 # Olá, sou o Ryuzaki! 👋
 
